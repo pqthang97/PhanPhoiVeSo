@@ -1,0 +1,37 @@
+﻿@model Models.EF.Giai
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thông tin chi tiết</h2>
+
+<div>
+    <h4>Giải <em>@Html.DisplayFor(model => model.TenGiai)</em> </h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenGiai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenGiai)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.SoTienNhan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SoTienNhan)
+        </dd>
+        <br />
+
+
+    </dl>
+</div>
+<p>
+    <button class="btn btn-primary" onclick="location.href='@Url.Action("Edit",  new { id = Model.MaGiai })';return false;"><b> Sửa</b></button>&nbsp&nbsp&nbsp&nbsp
+    <button class="btn btn-default" onclick="location.href='@Url.Action("Index")';return false;"><b>Trở lại</b></button>&nbsp&nbsp&nbsp&nbsp
+</p>

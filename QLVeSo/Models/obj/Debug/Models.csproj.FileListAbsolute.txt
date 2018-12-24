@@ -1,0 +1,117 @@
+G:\STSShop\Models\bin\Debug\Models.dll.config
+G:\STSShop\Models\bin\Debug\Models.dll
+G:\STSShop\Models\bin\Debug\Models.pdb
+G:\STSShop\Models\bin\Debug\EntityFramework.dll
+G:\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\STSShop\Models\bin\Debug\EntityFramework.xml
+G:\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+G:\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+G:\STSShop\Models\obj\Debug\Models.dll
+G:\STSShop\Models\obj\Debug\Models.pdb
+G:\STSShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\bin\Debug\Models.dll.config
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\bin\Debug\Models.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\bin\Debug\Models.pdb
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\bin\Debug\EntityFramework.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\bin\Debug\EntityFramework.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\obj\Debug\Models.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\Models\obj\Debug\Models.pdb
+G:\STSShop_TimKiem\STSShop\Models\bin\Debug\Models.dll.config
+G:\STSShop_TimKiem\STSShop\Models\bin\Debug\Models.dll
+G:\STSShop_TimKiem\STSShop\Models\bin\Debug\Models.pdb
+G:\STSShop_TimKiem\STSShop\Models\bin\Debug\EntityFramework.dll
+G:\STSShop_TimKiem\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\STSShop_TimKiem\STSShop\Models\bin\Debug\EntityFramework.xml
+G:\STSShop_TimKiem\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\STSShop_TimKiem\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+G:\STSShop_TimKiem\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+G:\STSShop_TimKiem\STSShop\Models\obj\Debug\Models.dll
+G:\STSShop_TimKiem\STSShop\Models\obj\Debug\Models.pdb
+D:\School\STSShop\Models\bin\Debug\Models.dll.config
+D:\School\STSShop\Models\bin\Debug\Models.dll
+D:\School\STSShop\Models\bin\Debug\Models.pdb
+D:\School\STSShop\Models\bin\Debug\EntityFramework.dll
+D:\School\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\School\STSShop\Models\bin\Debug\EntityFramework.xml
+D:\School\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\School\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\School\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+D:\School\STSShop\Models\obj\Debug\Models.dll
+D:\School\STSShop\Models\obj\Debug\Models.pdb
+G:\STSShop_11_5\STSShop\Models\bin\Debug\Models.dll.config
+G:\STSShop_11_5\STSShop\Models\bin\Debug\Models.dll
+G:\STSShop_11_5\STSShop\Models\bin\Debug\Models.pdb
+G:\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.dll
+G:\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+G:\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.xml
+G:\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+G:\STSShop_11_5\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+G:\STSShop_11_5\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+G:\STSShop_11_5\STSShop\Models\obj\Debug\Models.dll
+G:\STSShop_11_5\STSShop\Models\obj\Debug\Models.pdb
+G:\STSShop_11_5\STSShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+H:\STSShop_11_5\STSShop\Models\bin\Debug\Models.dll.config
+H:\STSShop_11_5\STSShop\Models\bin\Debug\Models.dll
+H:\STSShop_11_5\STSShop\Models\bin\Debug\Models.pdb
+H:\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.dll
+H:\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+H:\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.xml
+H:\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+H:\STSShop_11_5\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+H:\STSShop_11_5\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+H:\STSShop_11_5\STSShop\Models\obj\Debug\Models.dll
+H:\STSShop_11_5\STSShop\Models\obj\Debug\Models.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\bin\Debug\Models.dll.config
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\bin\Debug\Models.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\bin\Debug\Models.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\obj\Debug\Models.csprojAssemblyReference.cache
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\obj\Debug\Models.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Models\obj\Debug\Models.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\bin\Debug\Models.dll.config
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\bin\Debug\Models.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\bin\Debug\Models.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\bin\Debug\EntityFramework.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\bin\Debug\EntityFramework.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\obj\Debug\Models.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Models\obj\Debug\Models.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\bin\Debug\Models.dll.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\bin\Debug\Models.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\bin\Debug\Models.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\bin\Debug\EntityFramework.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\bin\Debug\EntityFramework.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\obj\Debug\Models.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Models\obj\Debug\Models.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\bin\Debug\Models.dll.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\bin\Debug\Models.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\bin\Debug\Models.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\bin\Debug\EntityFramework.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\bin\Debug\EntityFramework.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\obj\Debug\Models.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\QLVeSo\Models\obj\Debug\Models.pdb

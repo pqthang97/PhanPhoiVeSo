@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewBag.Title = "matchingLottery";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+
+    @if (TempData["message"] != null)
+    {
+        <hr />
+    <div class="alert alert-success" role="alert">
+        <strong>Thông báo! </strong> Vé số <h1>@TempData["sove"]</h1> @TempData["message"]
+    </div>
+    <p>
+        <button class="btn btn-info" onclick="location.href='@Url.Action("matchingLottery")';return false;">Trở về</button>&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+    <hr />
+    }
+    else
+    {
+    using (Html.BeginForm("matchingLottery", "KetQuaSoXoes", FormMethod.Get))
+    {
+        <form>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-6 col-xs-12">
+                        <label for="tinh">Tỉnh</label>
+                        <select class="form-control" name="tinh">
+                            @{
+                                if (ViewBag.lstTinh != null)
+                                {
+                                    foreach (string item in ViewBag.lstTinh)
+                                    {
+                                        <option>@item</option>
+                                    }
+                                }
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-6 col-xs-12 ">
+                        <label for="datepiker">Ngày xổ</label>
+                        <div class="input-group date">
+                            <input type="date" class="form-control" name="datepiker" value="2018-10-06" />
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="form-group">
+                <label for="sove">Số vé</label>
+                <input type="text" class="form-control" name="sove" placeholder="Nhập số vé của bạn..." />
+            </div>
+            <div class="form-group text-center">
+                <button type="submit" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Xét giải</button>
+            </div>
+        </form>
+                                }
+                                }
+</div>
+

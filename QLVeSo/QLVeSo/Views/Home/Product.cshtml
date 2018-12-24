@@ -1,0 +1,154 @@
+﻿@model QLVESO.Models.SearchModel
+@{
+    ViewBag.Title = "Product";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+@section jsFooter{
+
+    <script src="/Assets/js/controller/Themgiohang.js"></script>
+}
+<div class="page-head_agile_info_w3l">
+
+</div>
+<!-- //banner-2 -->
+<!-- page -->
+<div class="services-breadcrumb">
+    <div class="agile_inner_breadcrumb">
+        <div class="container">
+            <ul class="w3_short">
+                <li>
+                    <a href="/Home/Index">Trang chủ</a>
+                    <i>|</i>
+                </li>
+                <li>Sản phẩm</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- //page -->
+<!-- top Products -->
+<div class="ads-grid">
+    <div class="container">
+        <!-- tittle heading -->
+        <h3 class="tittle-w3l">
+            @ViewBag.Name
+            <span class="heading-style">
+                <i></i>
+                <i></i>
+                <i></i>
+            </span>
+        </h3>
+        <!-- //tittle heading -->
+        <!-- product left -->
+        <div class="side-bar col-md-3">
+            <div class="search-hotel">
+                <h3 class="agileits-sear-head">Tìm kiếm sản phẩm</h3>
+                <form action="@Url.Action("Search", "Product")" method="get">
+                    <input type="search" id="miniKeyword" name="keyword" placeholder="Tên sản phẩm..." required="">
+                    <input type="submit" value=" ">
+                </form>
+            </div>
+
+            <form action="@Url.Action("Filter", "Product")" method="post">
+                <!-- price range -->
+                <div class="left-side">
+                    <h3 class="agileits-sear-head">Khoảng giá</h3>
+                    <ul class="dropdown-menu6">
+                        @foreach (var price in Model.filter.PriceList)
+                        {
+                            <li>
+                                <input type="checkbox" class="checked" name="gia" id="@price.PriceID" checked="@price.IsChecked" value="@price.PriceValue" onclick="this.form.submit();" />
+                                <span class="span">@price.PriceName</span>
+                            </li>
+                        }
+                    </ul>
+                </div>
+                <!-- //price range -->
+                <!-- food preference -->
+                <div class="left-side">
+                    <h3 class="agileits-sear-head">Loại sản phẩm</h3>
+                    <ul>
+                        @foreach (var category in Model.filter.CategoryList)
+                        {
+                            <li>
+                                <input type="checkbox" class="checked" name="loai" id="@category.CategoryID" checked="@category.IsChecked" value="@category.CategoryValue" onclick="this.form.submit();" />
+                                <span class="span">@category.CategoryName</span>
+                            </li>
+                        }
+                    </ul>
+                </div>
+                <!-- //food preference -->
+                <!-- cuisine -->
+                <div class="left-side">
+                    <h3 class="agileits-sear-head">Xuất xứ</h3>
+                    <ul>
+                        @foreach (var origin in Model.filter.OriginList)
+                        {
+                            <li>
+                                <input type="checkbox" class="checked" name="xuatxu" id="@origin.OriginID" checked="@origin.IsChecked" value="@origin.OriginValue" onclick="this.form.submit();" />
+                                <span class="span">@origin.OriginName</span>
+                            </li>
+                        }
+                    </ul>
+                </div>
+                <!-- //cuisine -->
+            </form>
+
+        </div>
+        <script src="/Assets/js/jquery-2.1.4.min.js"></script>
+        <script src="/Assets/js/jquery-ui.js"></script>
+        <script src="/Assets/js/controller/miniSearch.js"></script>
+        <!-- //product left -->
+        <!-- product right -->
+        <div class="agileinfo-ads-display col-md-9">
+            <div class="wrapper">
+                <!-- first section -->
+                <div class="product-sec1">
+                    @foreach (var sp in Model.SearchResult)
+                    {
+                        <div class="col-md-4 product-men">
+                            <div class="men-pro-item simpleCart_shelfItem">
+                                <div class="men-thumb-item">
+                                    <img src="@sp.Hinhanhindex" alt="">
+                                    <div class="men-cart-pro">
+                                        <div class="inner-men-cart-pro">
+                                            <a href="@Url.Action("Detail","Product",new { id = sp.MaSP })" class="link-product-add-cart">Xem nhanh</a>
+                                        </div>
+                                    </div>
+                                    <span class="product-new-top">New</span>
+                                </div>
+                                <div class="item-info-product ">
+                                    <h4>
+                                        <a href="@Url.Action("Detail","Product",new { id = sp.MaSP })">@sp.TenSP</a>
+                                    </h4>
+                                    <div class="info-product-price">
+                                        <span class="item_price">@sp.GiaBanLe.ToString("N0") VNĐ</span>
+
+                                    </div>
+                                    <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+                                        <form>
+                                            <fieldset>
+
+                                                <input type="button" onclick="them('@sp.MaSP')" value="Thêm vào giỏ" class="button" />
+                                            </fieldset>
+                                        </form>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+
+                    <div class="clearfix"></div>
+                </div>
+                <!-- //first section -->
+                <!-- 2nd section) -->
+                <!-- //4th section  -->
+
+            </div>
+        </div>
+        <!-- //product right -->
+    </div>
+</div>
+

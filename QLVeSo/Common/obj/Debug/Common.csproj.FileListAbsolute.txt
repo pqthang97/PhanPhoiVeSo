@@ -1,0 +1,29 @@
+G:\STSShop_11_5\STSShop\Common\bin\Debug\Common.dll
+G:\STSShop_11_5\STSShop\Common\bin\Debug\Common.pdb
+G:\STSShop_11_5\STSShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\STSShop_11_5\STSShop\Common\obj\Debug\Common.dll
+G:\STSShop_11_5\STSShop\Common\obj\Debug\Common.pdb
+G:\STSShop_11_5\STSShop\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+H:\STSShop_11_5\STSShop\Common\bin\Debug\Common.dll
+H:\STSShop_11_5\STSShop\Common\bin\Debug\Common.pdb
+H:\STSShop_11_5\STSShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+H:\STSShop_11_5\STSShop\Common\obj\Debug\Common.dll
+H:\STSShop_11_5\STSShop\Common\obj\Debug\Common.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\bin\Debug\Common.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\bin\Debug\Common.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\obj\Debug\Common.csprojAssemblyReference.cache
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\obj\Debug\Common.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\Common\obj\Debug\Common.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Common\bin\Debug\Common.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Common\bin\Debug\Common.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Common\obj\Debug\Common.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\Common\obj\Debug\Common.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Common\bin\Debug\Common.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Common\bin\Debug\Common.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Common\obj\Debug\Common.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\Common\obj\Debug\Common.pdb

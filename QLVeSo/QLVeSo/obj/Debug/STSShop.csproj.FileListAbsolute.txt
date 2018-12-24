@@ -1,0 +1,910 @@
+G:\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+G:\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+G:\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+G:\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+G:\STSShop\STSShop\bin\ApplicationInsights.config
+G:\STSShop\STSShop\bin\STSShop.dll.config
+G:\STSShop\STSShop\bin\STSShop.dll
+G:\STSShop\STSShop\bin\STSShop.pdb
+G:\STSShop\STSShop\bin\roslyn\csc.exe
+G:\STSShop\STSShop\bin\roslyn\csc.exe.config
+G:\STSShop\STSShop\bin\roslyn\csc.rsp
+G:\STSShop\STSShop\bin\roslyn\csi.exe
+G:\STSShop\STSShop\bin\roslyn\csi.exe.config
+G:\STSShop\STSShop\bin\roslyn\csi.rsp
+G:\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+G:\STSShop\STSShop\bin\roslyn\System.Console.dll
+G:\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+G:\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+G:\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+G:\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+G:\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+G:\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+G:\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+G:\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+G:\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+G:\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\STSShop\STSShop\bin\roslyn\vbc.exe
+G:\STSShop\STSShop\bin\roslyn\vbc.exe.config
+G:\STSShop\STSShop\bin\roslyn\vbc.rsp
+G:\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+G:\STSShop\STSShop\bin\Antlr3.Runtime.dll
+G:\STSShop\STSShop\bin\EntityFramework.dll
+G:\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+G:\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+G:\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+G:\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+G:\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+G:\STSShop\STSShop\bin\Models.dll
+G:\STSShop\STSShop\bin\Newtonsoft.Json.dll
+G:\STSShop\STSShop\bin\System.Web.Helpers.dll
+G:\STSShop\STSShop\bin\System.Web.Mvc.dll
+G:\STSShop\STSShop\bin\System.Web.Optimization.dll
+G:\STSShop\STSShop\bin\System.Web.Razor.dll
+G:\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+G:\STSShop\STSShop\bin\System.Web.WebPages.dll
+G:\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+G:\STSShop\STSShop\bin\WebGrease.dll
+G:\STSShop\STSShop\bin\Models.pdb
+G:\STSShop\STSShop\bin\Models.dll.config
+G:\STSShop\STSShop\bin\EntityFramework.xml
+G:\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+G:\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\STSShop\STSShop\bin\System.Web.Helpers.xml
+G:\STSShop\STSShop\bin\System.Web.Mvc.xml
+G:\STSShop\STSShop\bin\System.Web.Optimization.xml
+G:\STSShop\STSShop\bin\System.Web.Razor.xml
+G:\STSShop\STSShop\bin\System.Web.WebPages.xml
+G:\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+G:\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+G:\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+G:\STSShop\STSShop\bin\Newtonsoft.Json.xml
+G:\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+G:\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+G:\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+G:\STSShop\STSShop\obj\Debug\STSShop.csprojResolveAssemblyReference.cache
+G:\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+G:\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+G:\STSShop\STSShop\obj\Debug\STSShop.dll
+G:\STSShop\STSShop\obj\Debug\STSShop.pdb
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\ApplicationInsights.config
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\STSShop.dll.config
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\STSShop.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\STSShop.pdb
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\csc.exe
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\csc.exe.config
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\csc.rsp
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\csi.exe
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\csi.exe.config
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\csi.rsp
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Console.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\vbc.exe
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\vbc.exe.config
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\vbc.rsp
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Antlr3.Runtime.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\EntityFramework.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Models.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Newtonsoft.Json.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.Helpers.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.Mvc.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.Optimization.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.Razor.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.WebPages.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\WebGrease.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Models.pdb
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Models.dll.config
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\EntityFramework.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.Helpers.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.Mvc.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.Optimization.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.Razor.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.WebPages.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Newtonsoft.Json.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\obj\Debug\STSShop.csprojResolveAssemblyReference.cache
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\obj\Debug\STSShop.dll
+D:\Documents\3rd Year\2nd Semester\PTTK OOP\Project\STSShop\STSShop\obj\Debug\STSShop.pdb
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+G:\STSShop_TimKiem\STSShop\STSShop\bin\ApplicationInsights.config
+G:\STSShop_TimKiem\STSShop\STSShop\bin\STSShop.dll.config
+G:\STSShop_TimKiem\STSShop\STSShop\bin\STSShop.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\STSShop.pdb
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\csc.exe
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\csc.exe.config
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\csc.rsp
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\csi.exe
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\csi.exe.config
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\csi.rsp
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Console.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\vbc.exe
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\vbc.exe.config
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\vbc.rsp
+G:\STSShop_TimKiem\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Antlr3.Runtime.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\EntityFramework.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Models.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Newtonsoft.Json.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.Helpers.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.Mvc.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.Optimization.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.Razor.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.WebPages.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\WebGrease.dll
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Models.pdb
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Models.dll.config
+G:\STSShop_TimKiem\STSShop\STSShop\bin\EntityFramework.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.Helpers.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.Mvc.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.Optimization.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.Razor.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.WebPages.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Newtonsoft.Json.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+G:\STSShop_TimKiem\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+G:\STSShop_TimKiem\STSShop\STSShop\obj\Debug\STSShop.csprojResolveAssemblyReference.cache
+G:\STSShop_TimKiem\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+G:\STSShop_TimKiem\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+G:\STSShop_TimKiem\STSShop\STSShop\obj\Debug\STSShop.dll
+G:\STSShop_TimKiem\STSShop\STSShop\obj\Debug\STSShop.pdb
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+D:\School\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+D:\School\STSShop\STSShop\bin\ApplicationInsights.config
+D:\School\STSShop\STSShop\bin\STSShop.dll.config
+D:\School\STSShop\STSShop\bin\STSShop.dll
+D:\School\STSShop\STSShop\bin\STSShop.pdb
+D:\School\STSShop\STSShop\bin\roslyn\csc.exe
+D:\School\STSShop\STSShop\bin\roslyn\csc.exe.config
+D:\School\STSShop\STSShop\bin\roslyn\csc.rsp
+D:\School\STSShop\STSShop\bin\roslyn\csi.exe
+D:\School\STSShop\STSShop\bin\roslyn\csi.exe.config
+D:\School\STSShop\STSShop\bin\roslyn\csi.rsp
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Console.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+D:\School\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\School\STSShop\STSShop\bin\roslyn\vbc.exe
+D:\School\STSShop\STSShop\bin\roslyn\vbc.exe.config
+D:\School\STSShop\STSShop\bin\roslyn\vbc.rsp
+D:\School\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+D:\School\STSShop\STSShop\bin\Antlr3.Runtime.dll
+D:\School\STSShop\STSShop\bin\EntityFramework.dll
+D:\School\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+D:\School\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\School\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\School\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\School\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\School\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+D:\School\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+D:\School\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+D:\School\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+D:\School\STSShop\STSShop\bin\Models.dll
+D:\School\STSShop\STSShop\bin\Newtonsoft.Json.dll
+D:\School\STSShop\STSShop\bin\System.Web.Helpers.dll
+D:\School\STSShop\STSShop\bin\System.Web.Mvc.dll
+D:\School\STSShop\STSShop\bin\System.Web.Optimization.dll
+D:\School\STSShop\STSShop\bin\System.Web.Razor.dll
+D:\School\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+D:\School\STSShop\STSShop\bin\System.Web.WebPages.dll
+D:\School\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+D:\School\STSShop\STSShop\bin\WebGrease.dll
+D:\School\STSShop\STSShop\bin\Models.pdb
+D:\School\STSShop\STSShop\bin\Models.dll.config
+D:\School\STSShop\STSShop\bin\EntityFramework.xml
+D:\School\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+D:\School\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School\STSShop\STSShop\bin\System.Web.Helpers.xml
+D:\School\STSShop\STSShop\bin\System.Web.Mvc.xml
+D:\School\STSShop\STSShop\bin\System.Web.Optimization.xml
+D:\School\STSShop\STSShop\bin\System.Web.Razor.xml
+D:\School\STSShop\STSShop\bin\System.Web.WebPages.xml
+D:\School\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+D:\School\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+D:\School\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+D:\School\STSShop\STSShop\bin\Newtonsoft.Json.xml
+D:\School\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+D:\School\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\School\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\School\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+D:\School\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+D:\School\STSShop\STSShop\obj\Debug\STSShop.csprojResolveAssemblyReference.cache
+D:\School\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+D:\School\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+D:\School\STSShop\STSShop\obj\Debug\STSShop.dll
+D:\School\STSShop\STSShop\obj\Debug\STSShop.pdb
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+G:\STSShop_11_5\STSShop\STSShop\bin\ApplicationInsights.config
+G:\STSShop_11_5\STSShop\STSShop\bin\STSShop.dll.config
+G:\STSShop_11_5\STSShop\STSShop\bin\STSShop.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\STSShop.pdb
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.exe
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.exe.config
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.rsp
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.exe
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.exe.config
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.rsp
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Console.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.exe
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.exe.config
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.rsp
+G:\STSShop_11_5\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+G:\STSShop_11_5\STSShop\STSShop\bin\Antlr3.Runtime.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Common.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Models.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Newtonsoft.Json.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Helpers.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Mvc.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Optimization.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Razor.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\WebGrease.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\Common.pdb
+G:\STSShop_11_5\STSShop\STSShop\bin\Models.pdb
+G:\STSShop_11_5\STSShop\STSShop\bin\Models.dll.config
+G:\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Helpers.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Mvc.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Optimization.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Razor.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+G:\STSShop_11_5\STSShop\STSShop\bin\Newtonsoft.Json.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+G:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csprojResolveAssemblyReference.cache
+G:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+G:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+G:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.dll
+G:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.pdb
+G:\STSShop_11_5\STSShop\STSShop\bin\PagedList.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\PagedList.Mvc.dll
+G:\STSShop_11_5\STSShop\STSShop\bin\PagedList.xml
+G:\STSShop_11_5\STSShop\STSShop\bin\PagedList.Mvc.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\ApplicationInsights.config
+H:\STSShop_11_5\STSShop\STSShop\bin\STSShop.dll.config
+H:\STSShop_11_5\STSShop\STSShop\bin\STSShop.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\STSShop.pdb
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.exe
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.exe.config
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.rsp
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.exe
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.exe.config
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.rsp
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Console.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.exe
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.exe.config
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.rsp
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+H:\STSShop_11_5\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+H:\STSShop_11_5\STSShop\STSShop\bin\Antlr3.Runtime.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Common.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Models.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Newtonsoft.Json.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\PagedList.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\PagedList.Mvc.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Helpers.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Mvc.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Optimization.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Razor.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\WebGrease.dll
+H:\STSShop_11_5\STSShop\STSShop\bin\Common.pdb
+H:\STSShop_11_5\STSShop\STSShop\bin\Models.pdb
+H:\STSShop_11_5\STSShop\STSShop\bin\Models.dll.config
+H:\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\PagedList.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\PagedList.Mvc.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Helpers.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Mvc.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Optimization.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.Razor.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+H:\STSShop_11_5\STSShop\STSShop\bin\Newtonsoft.Json.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+H:\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+H:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csprojAssemblyReference.cache
+H:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+H:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+H:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.dll
+H:\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\ApplicationInsights.config
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\STSShop.dll.config
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\STSShop.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\STSShop.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.exe
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.exe.config
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\csc.rsp
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.exe
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.exe.config
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\csi.rsp
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Console.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.exe
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.exe.config
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\vbc.rsp
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Antlr3.Runtime.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Common.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Models.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Newtonsoft.Json.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\PagedList.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\PagedList.Mvc.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.Helpers.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.Mvc.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.Optimization.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.Razor.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\WebGrease.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Common.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Models.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Models.dll.config
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\PagedList.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\PagedList.Mvc.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.Helpers.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.Mvc.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.Optimization.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.Razor.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Newtonsoft.Json.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csprojAssemblyReference.cache
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.dll
+H:\QLVeSo_prefinal\STSShop_11_5\STSShop\STSShop\obj\Debug\STSShop.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\ApplicationInsights.config
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\STSShop.dll.config
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\STSShop.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\STSShop.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\csc.exe
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\csc.exe.config
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\csc.rsp
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\csi.exe
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\csi.exe.config
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\csi.rsp
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Console.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\vbc.exe
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\vbc.exe.config
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\vbc.rsp
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Antlr3.Runtime.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Common.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\EntityFramework.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Models.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Newtonsoft.Json.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\PagedList.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\PagedList.Mvc.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.Helpers.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.Mvc.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.Optimization.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.Razor.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\WebGrease.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Common.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Models.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Models.dll.config
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\EntityFramework.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\PagedList.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\PagedList.Mvc.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.Helpers.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.Mvc.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.Optimization.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.Razor.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Newtonsoft.Json.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\obj\Debug\STSShop.csprojAssemblyReference.cache
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\obj\Debug\STSShop.dll
+D:\uni\2018-2019\HK1\Xdựng pmềm theo mô hình phân lớp\GitVeso\STSShop\STSShop\obj\Debug\STSShop.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\ApplicationInsights.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\STSShop.dll.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\STSShop.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\STSShop.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\csc.exe
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\csc.exe.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\csc.rsp
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\csi.exe
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\csi.exe.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\csi.rsp
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.AppContext.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Console.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\vbc.exe
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\vbc.exe.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\vbc.rsp
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Antlr3.Runtime.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\EntityFramework.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\EntityFramework.SqlServer.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.Web.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Models.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Newtonsoft.Json.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\PagedList.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\PagedList.Mvc.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.Helpers.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.Mvc.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.Optimization.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.Razor.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\WebGrease.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Models.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Models.dll.config
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\EntityFramework.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\EntityFramework.SqlServer.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\PagedList.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\PagedList.Mvc.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.Helpers.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.Mvc.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.Optimization.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.Razor.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Antlr3.Runtime.pdb
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Newtonsoft.Json.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\bin\Microsoft.AI.Web.xml
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\obj\Debug\STSShop.csprojAssemblyReference.cache
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\obj\Debug\STSShop.csproj.CoreCompileInputs.cache
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\obj\Debug\STSShop.csproj.CopyComplete
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\obj\Debug\STSShop.dll
+C:\Users\pqtha\Downloads\Compressed\GitVeso\GitVeso\STSShop\STSShop\obj\Debug\STSShop.pdb

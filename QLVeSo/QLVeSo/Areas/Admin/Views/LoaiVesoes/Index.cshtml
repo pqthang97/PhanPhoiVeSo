@@ -1,0 +1,108 @@
+﻿@model PagedList.IPagedList<Models.EF.LoaiVeso>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<br />
+<h2>Quản lí loại vé số</h2>
+<br />
+@using (Html.BeginForm("Index", "TbDaily", FormMethod.Get))
+{
+    <p>
+        Nhập loại vé số: @Html.TextBox("searchString", ViewBag.CurrentFilter as string)
+        <button type="submit"><i class="fa fa-search"></i></button>
+    </p>
+    <br />
+}
+
+@if (TempData["notice"] != null)
+{
+    if (TempData["notice"].ToString() == "Successfully create")
+    {
+        <div class="alert alert-success" role="alert">
+            <strong>Thông báo! </strong>Thêm thông tin loại vé số: @TempData["tensanpham"] thành công
+        </div>
+    }
+    else
+    if (TempData["notice"].ToString() == "Successfully edit")
+    {
+        <div class="alert alert-success" role="alert">
+            <strong>Thông báo! </strong>Sửa thông tin loại vé số: @TempData["tensanpham"] thành công
+        </div>
+    }
+    else
+    if (TempData["notice"].ToString() == "Successfully delete")
+    {
+        <div class="alert alert-success" role="alert">
+            <strong>Thông báo! </strong>Xóa thông tin loại vé số: @TempData["tensanpham"] thành công
+        </div>
+    }
+    else if (TempData["notice"].ToString() == "Have result")
+    {
+        <div class="alert alert-info" role="alert">
+            <strong>Tìm kiếm thành công! </strong>Có @TempData["dem"] kết quả trả về!
+        </div>
+    }
+    else if (TempData["notice"].ToString() == "No result")
+    {
+        <div class="alert alert-danger" role="alert">
+            <strong> Không có kết quả trả về!</strong>
+        </div>
+    }
+}
+
+<p>
+    <button class="btn btn-info" onclick="location.href='@Url.Action("Create")';return false;">Tạo mới</button>&nbsp;&nbsp;&nbsp;&nbsp;
+    <button class="btn btn-warning" onclick="location.href='@Url.Action("Index")';return false;">Tải lại</button>
+</p>
+
+<table class="table table-striped table-bordered table-hover" id="dataTables-example">
+    <thead>
+        <tr>
+            <th>
+                Mã loại vé số
+            </th>
+            <th width="17%">
+                Tỉnh
+            </th>
+            
+            <th>
+                <p style="text-align:center">Chức năng</p>
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaLoaiVeSo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tinh)
+                </td>
+                
+
+                <td align="center">
+                    <button class="btn btn-success" onclick="location.href='@Url.Action("Details",  new { id = item.MaLoaiVeSo })';return false;">Xem</button>&nbsp&nbsp&nbsp&nbsp
+                    <button class="btn btn-primary" onclick="location.href='@Url.Action("Edit",  new { id = item.MaLoaiVeSo })';return false;">Sửa</button>&nbsp&nbsp&nbsp&nbsp
+                    <button class="btn btn-danger" onclick="location.href='@Url.Action("Delete",  new { id = item.MaLoaiVeSo })';return false;">Xóa</button>&nbsp&nbsp&nbsp&nbsp
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) của
+@Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index",
+new
+{
+    page,
+    sortOrder = ViewBag.CurrentSort,
+    currentFilter =
+ViewBag.CurrentFilter
+}))

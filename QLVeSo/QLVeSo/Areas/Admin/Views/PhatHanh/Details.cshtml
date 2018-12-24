@@ -1,0 +1,73 @@
+﻿@model Models.EF.PhatHanh
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<h2>Chi tiết</h2>
+<div>
+    <h4>Phát hành chi tiết</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MaDaiLy)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MaDaiLy)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.MaLoaiVeSo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MaLoaiVeSo)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SoLuong)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayNhan)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NgayNhan)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.SLBan)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SLBan)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.DoanhThuDPH)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DoanhThuDPH)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.HoaHong)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HoaHong)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.TienThanhToan)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TienThanhToan)
+        </dd>
+        
+
+    </dl>
+</div>
+<p>
+    <button class="btn btn-primary" onclick="location.href='@Url.Action("Edit",  new { id = Model.MaPH })';return false;"><b> Sửa</b></button>&nbsp&nbsp&nbsp&nbsp
+    <button class="btn btn-default" onclick="location.href='@Url.Action("Index")';return false;"><b>Trở lại</b></button>&nbsp&nbsp&nbsp&nbsp
+</p>

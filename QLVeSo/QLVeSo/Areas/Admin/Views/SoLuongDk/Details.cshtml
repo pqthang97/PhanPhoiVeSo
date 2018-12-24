@@ -1,0 +1,46 @@
+﻿@model Models.EF.SoLuongDK
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<h2>Chi tiết</h2>
+<div>
+    <h4>Đại lý</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.MaDaiLy)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MaDaiLy)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayDK)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NgayDK)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.SoLuongDK1)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.SoLuongDK1)
+        </dd>
+        <br />
+        
+
+    </dl>
+</div>
+<p>
+    <button class="btn btn-primary" onclick="location.href='@Url.Action("Edit",  new { id = Model.ID })';return false;"><b> Sửa</b></button>&nbsp&nbsp&nbsp&nbsp
+    <button class="btn btn-default" onclick="location.href='@Url.Action("Index")';return false;"><b>Trở lại</b></button>&nbsp&nbsp&nbsp&nbsp
+</p>

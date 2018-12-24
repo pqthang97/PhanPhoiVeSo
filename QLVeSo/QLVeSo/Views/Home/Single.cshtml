@@ -1,0 +1,124 @@
+﻿@model Models.EF.SANPHAM
+@{
+    ViewBag.Title = "SingleV2";
+    Layout = "~/Views/Shared/_layoutsingle.cshtml";
+}
+
+<div class="services-breadcrumb">
+    <div class="agile_inner_breadcrumb">
+        <div class="container">
+            <ul class="w3_short">
+                <li>
+                    <a href="index.html">Trang chủ</a>
+                    <i>|</i>
+                </li>
+                <li>Single Page</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- //page -->
+<!-- Single Page -->
+<div class="banner-bootom-w3-agileits">
+    <div class="container">
+        <!-- tittle heading -->
+        <h3 class="tittle-w3l">
+            Thông tin sản phẩm
+            <span class="heading-style">
+                <i></i>
+                <i></i>
+                <i></i>
+            </span>
+        </h3>
+        <!-- //tittle heading -->
+        <div class="col-md-5 single-right-left ">
+            <div class="grid images_3_of_2">
+                <div class="flexslider">
+                    <ul class="slides">
+                        <li data-thumb="/Assets/imagedetail/anh-hung-white-baymax-big-hero-6-loai-10-in.jpg">
+                            <div class="thumb-image">
+                                <img src="/Assets/imagedetail/anh-hung-white-baymax-big-hero-6-loai-10-in.jpg" data-imagezoom="true" class="img-responsive" alt="">
+                            </div>
+                        </li>
+                        
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-7 single-right-left simpleCart_shelfItem">
+            <h3>@Model.TenSP</h3>
+            
+            <p>
+                <span class="item_price">@Model.GiaBanLe + "VNĐ"</span>
+                <label>Giao hàng miễn phí</label>
+            </p>
+            <div class="single-infoagile">
+                <ul>
+                    <li>
+                        Thanh toán khi nhận hàng.
+                    </li>
+                    <li>
+                        Shipping tốc độ cao.
+                    </li>
+                    <li>
+                        Xuất xử ở @Model.XuatSu.
+                    </li>
+                    <li>
+                        Số lượng còn lại:
+                        <span class="item_price">@Model.SoLuongTon</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="product-single-w3l">
+                <p>
+                    <i class="fa fa-hand-o-right" aria-hidden="true"></i>Sản phẩm dành cho
+                    <label>Lứa tuổi</label> .
+                </p>
+                <ul>
+                    <li>
+                        Best for Biryani and Pulao.
+                    </li>
+                    <li>
+                        After cooking, Zeeba Basmati rice grains attain an extra ordinary length of upto 2.4 cm/~1 inch.
+                    </li>
+                    <li>
+                        Zeeba Basmati rice adheres to the highest food afety standards as your health is paramount to us.
+                    </li>
+                    <li>
+                        Contains only the best and purest grade of basmati rice grain of Export quality.
+                    </li>
+                </ul>
+                <p>
+                    <i class="fa fa-refresh" aria-hidden="true"></i>
+                    <label>Cho phép hoàn trả sản phẩm.</label>
+                </p>
+            </div>
+            <div class="occasion-cart">
+                <div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
+                    <form action="#" method="post">
+                        <fieldset>
+                            <input type="hidden" name="cmd" value="_cart" />
+                            <input type="hidden" name="add" value="1" />
+                            <input type="hidden" name="business" value=" " />
+                            <input type="hidden" name="item_name" value="Zeeba Premium Basmati Rice - 5 KG" />
+                            <input type="hidden" name="amount" value="950.00" />
+                            <input type="hidden" name="discount_amount" value="1.00" />
+                            <input type="hidden" name="currency_code" value="USD" />
+                            <input type="hidden" name="return" value=" " />
+                            <input type="hidden" name="cancel_return" value=" " />
+                            <input type="submit" name="submit" value="Add to cart" class="button" />
+                        </fieldset>
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+</div>
+@section sanphamkhuyenmai
+    {
+    @RenderPage("~/Views/Shared/_sanphamkhac.cshtml")
+}

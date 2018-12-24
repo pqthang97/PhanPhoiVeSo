@@ -1,0 +1,551 @@
+﻿
+@{
+    Layout = null;
+}
+@using QLVESO.Common;
+<!DOCTYPE html>
+
+<html lang="zxx">
+
+<head>
+    <title>Grocery Shoppy an Ecommerce Category Bootstrap Responsive Web Template | Single :: w3layouts</title>
+    <!--/tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Grocery Shoppy Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <!--//tags -->
+    <link href="/Assets/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/Assets/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/Assets/css/font-awesome.css" rel="stylesheet">
+    <!--pop-up-box-->
+    <link href="/Assets/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+    <!--//pop-up-box-->
+    <!-- price range -->
+    <link rel="stylesheet" type="text/css" href="/Assets/css/jquery-ui1.css">
+    <!-- flexslider -->
+    <link rel="stylesheet" href="/Assets/css/flexslider.css" type="text/css" media="screen" />
+    <!-- fonts -->
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800" rel="stylesheet">
+</head>
+
+<body>
+    <!-- header-bot-->
+    <div class="header-bot">
+        <div class="header-bot_inner_wthreeinfo_header_mid">
+            <!-- header-bot-->
+            <div class="col-md-4 logo_agile">
+                <h1>
+                    <a href="/">
+                        <span>STS</span> Shop
+
+                        <img src="/Assets/images/logo2.png" alt=" ">
+                    </a>
+                </h1>
+            </div>
+            <!-- header-bot -->
+            <div class="col-md-8 header">
+                <!-- header lists -->
+                <ul>
+
+                    <li>
+                        <span class="fa fa-phone" aria-hidden="true"></span> 001 234 5678
+                    </li>
+                    @{
+                        var session = (UserLogin)Session[QLVESO.Common.CommonConstants.USER_SESSION];
+                    }
+                    @if (session == null)
+                    {
+                        <li>
+                            <a href="/Home/dangnhap">
+                                <span class="fa fa-unlock-alt" aria-hidden="true"></span> Đăng nhập
+                            </a>
+                        </li>
+                        <li>
+                            <a href="@Url.Action("Register", "User")">
+                                <span class="fa fa-pencil-square-o" aria-hidden="true"></span> Đăng kí
+                            </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            <a>
+                                <span class="fa fa-unlock-alt" aria-hidden="true"></span> Xin chào: @session.Username
+                            </a>
+                        </li>
+                        <li>
+                            <a>
+                                <span class="fa fa-unlock-alt" aria-hidden="true"></span> @Html.ActionLink("Thoát", "Logout", "Home")
+                            </a>
+                        </li>
+                    }
+
+                </ul>
+                <!-- //header lists -->
+                <!-- search -->
+                <div class="agileits_search">
+                    <form action="#" method="post">
+                        <input name="Search" type="search" placeholder="Chúng tôi giúp gì được bạn?" required="">
+                        <button type="submit" class="btn btn-default" aria-label="Left Align">
+                            <span class="fa fa-search" aria-hidden="true"> </span>
+                        </button>
+                    </form>
+                </div>
+                <!-- //search -->
+                <!-- cart details -->
+                <div class="top_nav_right">
+                    <div class="wthreecartaits wthreecartaits2 cart cart box_1">
+                        <form action="#" method="post" class="last">
+                            <input type="hidden" name="cmd" value="_cart">
+                            <input type="hidden" name="display" value="1">
+                            <button class="w3view-cart" type="submit" name="submit" value="">
+                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                <!-- //cart details -->
+                <div class="clearfix"></div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <!-- shop locator (popup) -->
+    <!-- Button trigger modal(shop-locator) -->
+    <!-- //shop locator (popup) -->
+    <!-- signin Model -->
+    <!-- Modal1 -->
+    <!-- //Modal1 -->
+    <!-- //signin Model -->
+    <!-- signup Model -->
+    <!-- Modal2 -->
+    <!-- //Modal2 -->
+    <!-- //signup Model -->
+    <!-- //header-bot -->
+    <!-- navigation -->
+    <div class="ban-top">
+        <div class="container">
+            <div class="agileits-navi_search">
+                <form action="#" method="post">
+                    <select id="agileinfo-nav_search" name="agileinfo_search" required="">
+                        <option value="">Tất cả sản phẩm</option>
+                        <option value="Kitchen">Đồ chơi búp bê</option>
+                        <option value="Household">Đồ chơi xếp hình, lắp ghép</option>
+                        <option value="Snacks &amp; Beverages">Mô hình nhân vật - động vật</option>
+                        <option value="Personal Care">Mô hình xe cộ</option>
+
+                    </select>
+                </form>
+            </div>
+            <div class="top_nav_left">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+                                    aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav menu__list">
+                                <li class="active">
+                                    <a class="nav-stylehead" href="/Home/Index">
+                                        Trang chủ
+                                        <span class="sr-only">(current)</span>
+                                    </a>
+                                </li>
+                                <li class="">
+                                    <a class="nav-stylehead" href="/Home/About">Giới thiệu</a>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="/Home/Product" class="dropdown-toggle nav-stylehead" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        Đồ chơi
+                                        <span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu multi-column columns-3">
+                                        <div class="agile_inner_drop_nav_info">
+                                            <div class="col-sm-4 multi-gd-img">
+                                                <ul class="multi-column-dropdown">
+                                                    <li>
+                                                        <a href="/Home/Product">Đồ chơi búp bê </a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/Home/Product">Đồ chơi xếp hình, lắp ghép</a>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+
+
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="/Home/Product" class="dropdown-toggle nav-stylehead" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                        Mô hình
+                                        <span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu multi-column columns-3">
+                                        <div class="agile_inner_drop_nav_info">
+                                            <div class="col-sm-6 multi-gd-img">
+                                                <ul class="multi-column-dropdown">
+                                                    <li>
+                                                        <a href="/Home/Product">Mô hình nhân vật - động vật</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/Home/Product">Mô hình xe cộ</a>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+
+                                            <div class="clearfix"></div>
+                                        </div>
+                                    </ul>
+                                </li>
+                                <li class="">
+                                    <a class="nav-stylehead" href="/Home/FAQS">Hỏi đáp</a>
+                                </li>
+
+                                <li class="">
+                                    <a class="nav-stylehead" href="/Home/Contact">Liên hệ</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- //navigation -->
+    <!-- banner-2 -->
+    <div class="page-head_agile_info_w3l">
+
+    </div>
+    <!-- //banner-2 -->
+    <!-- page -->
+    @RenderBody()
+    <!-- //Single Page -->
+    <!-- special offers -->
+    @RenderSection("sanphamkhuyenmai", false)
+
+    <!-- //special offers -->
+    <!-- newsletter -->
+    <div class="footer-top">
+        <div class="container-fluid">
+            <div class="col-xs-8 agile-leftmk">
+                <h2>Nhận thông tin ưu đãi từ STS Shop</h2>
+                <p>Freeship cho đơn hàng đầu tiên!!</p>
+                <form action="#" method="post">
+                    <input type="email" placeholder="E-mail" name="email" required="">
+                    <input type="submit" value="Đăng kí">
+                </form>
+                <div class="newsform-w3l">
+                    <span class="fa fa-envelope-o" aria-hidden="true"></span>
+                </div>
+            </div>
+            <div class="col-xs-4 w3l-rightmk">
+                <img src="/Assets/images/tab3.png" alt=" ">
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <!-- //newsletter -->
+    <!-- footer -->
+    <footer>
+        <div class="container">
+            <!-- footer first section -->
+            <p class="footer-main">
+                <span>"STS Shop"</span> là cửa hàng đồ chơi lớn nhất trên cả nước. Với khoảng 50 chi nhánh trải dài trên đất nước Việt Nam. Chúng tôi
+                cam kết sẽ làm bạn hài lòng về chất lượng sản phẩm lẫn chất lượng dịch vụ.
+            </p>
+            <!-- //footer first section -->
+            <!-- footer second section -->
+            <!-- //footer second section -->
+            <!-- footer third section -->
+            <div class="footer-info w3-agileits-info">
+                <!-- footer categories -->
+                <div class="col-sm-5 address-right">
+                    <div class="col-xs-6 footer-grids">
+                        <h3>Danh mục</h3>
+                        <ul>
+                            <li>
+                                <a href="/Home/Product">Đồ chơi búp bê</a>
+                            </li>
+                            <li>
+                                <a href="/Home/Product">Đồ chơi xếp hình, lắp ghép</a>
+                            </li>
+                            <li>
+                                <a href="/Home/Product">Mô hình nhân vật - động vật</a>
+                            </li>
+                            <li>
+                                <a href="/Home/Product">Mô hình xe cộ</a>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div class="clearfix"></div>
+                </div>
+                <!-- //footer categories -->
+                <!-- quick links -->
+                <div class="col-sm-5 address-right">
+                    <div class="col-xs-6 footer-grids">
+                        <h3>Lõi tắt</h3>
+                        <ul>
+                            <li>
+                                <a href="/Home/About">Giới thiệu</a>
+                            </li>
+                            <li>
+                                <a href="/Home/Contact">Liên hệ</a>
+                            </li>
+                            <li>
+                                <a href="/Home/Help">Giúp đỡ</a>
+                            </li>
+                            <li>
+                                <a href="/Home/FAQS">Hỏi đáp</a>
+                            </li>
+                            <li>
+                                <a href="/Home/Terms">Điều khoản sử dụng</a>
+                            </li>
+                            <li>
+                                <a href="/Home/Privacy">Chính sách bảo mật</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-6 footer-grids">
+                        <h3>Địa chỉ</h3>
+                        <ul>
+                            <li>
+                                <i class="fa fa-map-marker"></i> 123 Nguyễn Văn Cừ, phường 11, Quận 5, TPHCM.
+                            </li>
+                            <li>
+                                <i class="fa fa-mobile"></i> 028 627 011 123
+                            </li>
+                            <li>
+                                <i class="fa fa-phone"></i> 09123456789
+                            </li>
+                            <li>
+                                <i class="fa fa-envelope-o"></i>
+                                <a href="mailto:example@mail.com"> QLVESO@gmail.com</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- //quick links -->
+                <!-- social icons -->
+                <div class="col-sm-2 footer-grids  w3l-socialmk">
+                    <h3>Theo dõi chúng tôi trên</h3>
+                    <div class="social">
+                        <ul>
+                            <li>
+                                <a class="icon fb" href="https://www.facebook.com/son.nguyenngoc.7528">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="icon tw" href="#">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a class="icon gp" href="#">
+                                    <i class="fa fa-google-plus"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+                <!-- //social icons -->
+                <div class="clearfix"></div>
+            </div>
+            <!-- //footer third section -->
+            <!-- footer fourth section (text) -->
+            <!-- //footer fourth section (text) -->
+        </div>
+    </footer>
+    <!-- //footer -->
+    <!-- copyright -->
+    <div class="copy-right">
+        <div class="container">
+            <p>
+                © 2017 STS Shop. All rights reserved | Design by
+                <a href="http://w3layouts.com"> W3layouts.</a>
+            </p>
+        </div>
+    </div>
+    <!-- //copyright -->
+    <!-- js-files -->
+    <!-- jquery -->
+    <script src="/Assets/js/jquery-2.1.4.min.js"></script>
+    <!-- //jquery -->
+    <!-- popup modal (for signin & signup)-->
+    <script src="/Assets/js/jquery.magnific-popup.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.popup-with-zoom-anim').magnificPopup({
+                type: 'inline',
+                fixedContentPos: false,
+                fixedBgPos: true,
+                overflowY: 'auto',
+                closeBtnInside: true,
+                preloader: false,
+                midClick: true,
+                removalDelay: 300,
+                mainClass: 'my-mfp-zoom-in'
+            });
+
+        });
+    </script>
+    <!-- Large modal -->
+    <!-- <script>
+        $('#').modal('show');
+    </script> -->
+    <!-- //popup modal (for signin & signup)-->
+    <!-- cart-js -->
+    <script src="/Assets/js/minicart.js"></script>
+    <script>
+        paypalm.minicartk.render(); //use only unique class names other than paypal1.minicart1.Also Replace same class name in css and minicart.min.js
+
+        paypalm.minicartk.cart.on('checkout', function (evt) {
+            var items = this.items(),
+                len = items.length,
+                total = 0,
+                i;
+
+            // Count the number of each item in the cart
+            for (i = 0; i < len; i++) {
+                total += items[i].get('quantity');
+            }
+
+            if (total < 3) {
+                alert('The minimum order quantity is 3. Please add more to your shopping cart before checking out');
+                evt.preventDefault();
+            }
+        });
+    </script>
+    <!-- //cart-js -->
+    <!-- password-script -->
+    <script>
+        window.onload = function () {
+            document.getElementById("password1").onchange = validatePassword;
+            document.getElementById("password2").onchange = validatePassword;
+        }
+
+        function validatePassword() {
+            var pass2 = document.getElementById("password2").value;
+            var pass1 = document.getElementById("password1").value;
+            if (pass1 != pass2)
+                document.getElementById("password2").setCustomValidity("Passwords Don't Match");
+            else
+                document.getElementById("password2").setCustomValidity('');
+            //empty string means no validation error
+        }
+    </script>
+    <!-- //password-script -->
+    <!-- smoothscroll -->
+    <script src="/Assets/js/SmoothScroll.min.js"></script>
+    <!-- //smoothscroll -->
+    <!-- start-smooth-scrolling -->
+    <script src="/Assets/js/move-top.js"></script>
+    <script src="/Assets/js/easing.js"></script>
+    <script>
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 1000);
+            });
+        });
+    </script>
+    <!-- //end-smooth-scrolling -->
+    <!-- smooth-scrolling-of-move-up -->
+    <script>
+        $(document).ready(function () {
+            /*
+            var defaults = {
+                containerID: 'toTop', // fading element id
+                containerHoverID: 'toTopHover', // fading element hover id
+                scrollSpeed: 1200,
+                easingType: 'linear'
+            };
+            */
+            $().UItoTop({
+                easingType: 'easeOutQuart'
+            });
+
+        });
+    </script>
+    <!-- //smooth-scrolling-of-move-up -->
+    <!-- imagezoom -->
+    <script src="/Assets/js/imagezoom.js"></script>
+    <!-- //imagezoom -->
+    <!-- FlexSlider -->
+    <script src="/Assets/js/jquery.flexslider.js"></script>
+    <script>
+        // Can also be used with $(document).ready()
+        $(window).load(function () {
+            $('.flexslider').flexslider({
+                animation: "slide",
+                controlNav: "thumbnails"
+            });
+        });
+    </script>
+    <!-- //FlexSlider-->
+    <!-- flexisel (for special offers) -->
+    <script src="/Assets/js/jquery.flexisel.js"></script>
+    <script>
+        $(window).load(function () {
+            $("#flexiselDemo1").flexisel({
+                visibleItems: 3,
+                animationSpeed: 1000,
+                autoPlay: true,
+                autoPlaySpeed: 3000,
+                pauseOnHover: true,
+                enableResponsiveBreakpoints: true,
+                responsiveBreakpoints: {
+                    portrait: {
+                        changePoint: 480,
+                        visibleItems: 1
+                    },
+                    landscape: {
+                        changePoint: 640,
+                        visibleItems: 2
+                    },
+                    tablet: {
+                        changePoint: 768,
+                        visibleItems: 2
+                    }
+                }
+            });
+
+        });
+    </script>
+    <!-- //flexisel (for special offers) -->
+    <!-- for bootstrap working -->
+    <script src="/Assets/js/bootstrap.js"></script>
+    <!-- //for bootstrap working -->
+    <!-- //js-files -->
+
+</body>
+
+</html>

@@ -1,0 +1,166 @@
+﻿@model QLVESO.Models.RegisterModel
+
+@{
+    ViewBag.Title = "Đăng kí";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<link rel="icon" type="image/png" href="/Assets/SignUp/images/icons/favicon.ico" />
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/fonts/iconic/css/material-design-iconic-font.min.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/vendor/animate/animate.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/css/util.css">
+<link rel="stylesheet" type="text/css" href="/Assets/SignUp/css/main.css">
+
+
+<div class="limiter" style="background-color: #ffffff;">
+    <div class="form-group" style="text-align: center;">
+        @if (ViewBag.Success != null)
+        {
+            <div class="alert alert-success">@ViewBag.Success</div>
+            <br />
+        }
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <div class="alert alert-danger">@Html.ValidationSummary(false)</div>
+            <br />
+        }
+    </div>
+    <div class="container-login100">
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="wrap-login100 p-l-50 p-r-50 p-t-72 p-b-50" style="margin-left: 35%; margin-right: 35%; border-style: solid; border-width: medium;">
+                <form class="login100-form validate-form">
+                    <span class="login100-form-title p-b-59" style="color: #ff6600; text-align: center; font-weight: bold;">
+                        Đăng kí thành viên
+                    </span>
+
+                    <div class="wrap-input100 validate-input" data-validate="Yêu cầu nhập tên đăng nhập">
+                        <span class="fa fa-user-circle"></span>
+                        <span class="label-input100" style="color: #009999">Tên đăng nhập</span>
+                        @Html.EditorFor(model => model.TaiKhoan1, new { htmlAttributes = new { @class = "input100" } })
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.TaiKhoan1, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="wrap-input100 validate-input" data-validate="Yêu cầu nhập mật khẩu">
+                        <span class="fa fa-key"></span>
+                        <span class="label-input100" style="color: #40A46F">Mật khẩu</span>
+                        @Html.EditorFor(model => model.MatKhau, new { htmlAttributes = new { @class = "input100" } })
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.MatKhau, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="wrap-input100">
+                        <span class="fa fa-key"></span>
+                        <span class="label-input100" style="color: #009999">Nhập lại mật khẩu</span>
+                        @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "input100" } })
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="wrap-input100 validate-input" data-validate="Email phải đúng định dạng: ex@abc.xyz">
+                        <span class="fa fa-envelope"></span>
+                        <span class="label-input100" style="color: #40A46F">Email</span>
+                        @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "input100" } })
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="wrap-input100 validate-input" data-validate="Yêu cầu nhập họ tên">
+                        <span class="fa fa-id-card"></span>
+                        <span class="label-input100" style="color: #009999">Họ tên</span>
+                        @Html.EditorFor(model => model.HoTen, new { htmlAttributes = new { @class = "input100" } })
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.HoTen, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="wrap-input100">
+                        <span class="fa fa-user"></span>
+                        <span class="label-input100" style="color: #40A46F">Giới tính</span>
+                        <div>
+                            @Html.RadioButtonFor(model => model.GioiTinh, "Nam") Nam
+                            @Html.RadioButtonFor(model => model.GioiTinh, "Nữ") Nữ
+                        </div>
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.GioiTinh, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="wrap-input100">
+                        <span class="fa fa-birthday-cake"></span>
+                        <span class="label-input100" style="color: #009999">Ngày sinh</span>
+                        @Html.EditorFor(model => model.NgaySinh, new { htmlAttributes = new { @class = "input100" } })
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.NgaySinh, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="wrap-input100">
+                        <span class="fa fa-mobile-phone"></span>
+                        <span class="label-input100" style="color: #40A46F">Số điện thoại</span>
+                        @Html.EditorFor(model => model.SDT, new { htmlAttributes = new { @class = "input100", maxlength = 10 } })
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.SDT, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="wrap-input100">
+                        <span class="fa fa-address-book"></span>
+                        <span class="label-input100" style="color: #009999">Địa chỉ</span>
+                        @Html.EditorFor(model => model.DiaChi, new { htmlAttributes = new { @class = "input100" } })
+                        <span class="focus-input100"></span>
+                        @Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="container-login100-form-btn">
+                        <div class="wrap-login100-form-btn">
+                            <div class="login100-form-bgbtn"></div>
+                            <button type="submit" class="login100-form-btn">
+                                Đăng kí
+                            </button>
+                        </div>
+
+                        <a href="@Url.Action("dangnhap", "Home")" class="dis-block txt3 hov1 p-r-30 p-t-10 p-b-10 p-l-30">
+                            Đăng nhập
+                            <i class="fa fa-long-arrow-right m-l-5"></i>
+                        </a>
+                    </div>
+                </form>
+            </div>
+        }
+
+
+    </div>
+</div>
+
+<!--===============================================================================================-->
+<script src="/Assets/SignUp/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+<script src="/Assets/SignUp/vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+<script src="/Assets/SignUp/vendor/bootstrap/js/popper.js"></script>
+<script src="/Assets/SignUp/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+<script src="/Assets/SignUp/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+<script src="/Assets/SignUp/vendor/daterangepicker/moment.min.js"></script>
+<script src="/Assets/SignUp/vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+<script src="/Assets/SignUp/vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+<script src="/Assets/SignUp/js/main.js"></script>
