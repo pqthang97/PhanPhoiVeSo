@@ -139,13 +139,13 @@ namespace QLVESO.Areas.Admin.Controllers
         }
 
 
-        public ActionResult Delete(string id, string id1)
+        public ActionResult Delete(int id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            PhatHanh ph = db.PhatHanhs.FirstOrDefault(m => m.MaLoaiVeSo == id && m.MaDaiLy == id1);
+            PhatHanh ph = db.PhatHanhs.FirstOrDefault(m => m.MaPH == id);
             if (ph == null)
             {
                 return HttpNotFound();
@@ -156,9 +156,9 @@ namespace QLVESO.Areas.Admin.Controllers
         // POST: Admin/TbSanPham/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(string id, string id1)
+        public ActionResult DeleteConfirmed(int id)
         {
-            PhatHanh ph = db.PhatHanhs.FirstOrDefault(m => m.MaLoaiVeSo == id && m.MaDaiLy == id1);
+            PhatHanh ph = db.PhatHanhs.FirstOrDefault(m => m.MaPH == id);
             ph.Flag = false;
             TempData["notice"] = "Successfully delete";
             TempData["tensanpham"] = ph.MaLoaiVeSo;
